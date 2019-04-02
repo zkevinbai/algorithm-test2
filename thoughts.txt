@@ -1,0 +1,7 @@
+for each from, i need to check the entirety of the to path
+if it connects to the cycle, it has a distance of 0
+
+
+an algorithim to check where the cycle starts and ends
+
+    i need a dictionary of the things that are a part of the cycle

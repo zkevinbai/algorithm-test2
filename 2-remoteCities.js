@@ -6,11 +6,13 @@
     // a distance for each city (the starting node, and every fromTo pair);
 
 
+
+
 let gNodes = 4;
 let gFrom = [1, 4, 4, 1];
 let gTo = [3, 3, 2, 2];
 
-let stack`
+let stack
 
 function findRemoteness(gNodes, gFrom, gTo) {
     let zeros = [];
