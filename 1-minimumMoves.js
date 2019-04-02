@@ -5,6 +5,7 @@
     // such that the first array becomes equal to the second one
     // return total number of moves
 
+    // finished at 1:18 left;
 
 // let a = [
 //     1234,
